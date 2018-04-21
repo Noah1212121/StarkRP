@@ -1,0 +1,8 @@
+To introduce realistic oxidation of the Code3 Javelin's Glass, I have included editable textures.
+
+Oxidation comes from the plastic/plexi cover sitting in daylight for so long, the material becomes less clear and more foggy and becomes a greyish-yellow color. Feel free to edit the textures and replace them in the police.ytd.
+
+Instructions:
+Edit your Javglass-Oxidized.png and when finished rename it to "javglass.png" and then import into "police.ytd."
+
+u done boo, good job keep it up
